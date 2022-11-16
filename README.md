@@ -3,7 +3,7 @@
 
 ## My Learning Process
 
-- [ ] Lecture 01 Course Overview 「read 1, video」
+- [ ] Lecture 01 Course Overview 「read 1, ~~video~~」
 - [ ] Lecture 02 Bits,Bytes,and Integers I 「read 2.1, video」
 - [ ] Lecture 03 Bits,Bytes,and Integers II 「read 2.2-2.3, video」
 - [ ] Lecture 04 Floating Point 「read 2.4, video」
